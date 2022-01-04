@@ -1,13 +1,9 @@
-# POC-CSV-Pivot-Plots
+# Mission Control Data Analysis Proof of Concept
 
-#### Concept
-- the point of this POC is to transform and output graphs of multiple input csv files. 
-- The inputs are csv files, the outputs are csv and graph files
-- 
+#### Note:
+- first_transformation_script outputs csvs to /raw_and_cleaned_data/Output Csvs Script Tests
 
-#### Topics
-- FAANG Stock Prices
+Raw data can be found here: 
+https://www.kaggle.com/sobhanmoosavi/us-weather-events
 
-#### Technologies
-- Pandas
-- Plotly
+More information can be found in the attached space-analaysis-poc.pdf file
