@@ -132,6 +132,6 @@ def prob3_graph():
 
 if __name__ == "__main__":
     prob1_graph()
-    prob2_graph()
-    prob3_graph()
+    #prob2_graph()
+    #prob3_graph()
    
