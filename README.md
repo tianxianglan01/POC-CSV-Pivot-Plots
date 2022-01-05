@@ -6,15 +6,15 @@
 - script_second_transformation prob 3 outputs to /Output_Graphs/2nd Trans Prob 3
 
 #### Output_Graphs:
-- contains the graphs outputted by our scripts: ergo the outputs of our POC
+- contains the graphs outputted by our scripts: ergo the outputs of our POC Problem 2
 
 #### Jupyter Notebook Notes:
 - if you'd like to see the notebooks for how the script works, please use the JN - 'Title'.ipynb files
 
 #### raw_and_cleaned_data
 - 3 partitions are the 3 datasets from the original kaggle dataset
-- Output Csvs are the csvs that were outputted from the jupyter noteoboks
-- Output Csvs Script Tests are the csvs that came out from the scripts
+- Output Csvs are the csvs that were outputted from the jupyter noteoboks in regards to POC Problem 1
+- Output Csvs Script Tests are the csvs that came out from the scripts in regards to POC Problem 1
 
 Raw data can be found here: 
 https://www.kaggle.com/sobhanmoosavi/us-weather-events
